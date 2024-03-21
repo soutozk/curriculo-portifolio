@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+   <h1>João Gabriel Souto .G de Souza</h1>
+
+   <h3>Formação:</h3>
+
+     <p>Ensino Médio Completo pelo CEMAB, com foco em formação geral e preparação para o ensino superior. </br>
+        Graduando em Ciência da Computação pela Universidade Católica, com previsão de conclusão em.</p>
+
+  <h3>Dados Pessoais</h3> 
+  
+     <ul>Telefone: 9999-9999</ul>
+     <ul>Endereço: xxxxxxxxxxxxxxx</ul>
+
+  <h3>Cursos, Conhecimentos </h3> 
+  
+     <ul>HTML 5</ul>
+     <ul>css</ul>
+     <ul>java Script</ul>
+     <ul>Biblioteca AOS</ul>
+
+   <h3>Idiomas:</h3>
+     <ul>ingles nivel intermediario</ul>
+
+   <h3>Experiencia:</h3> 
+  
+     <p>Atualmente, não possuo experiências profissionais formais, mas possuo varios projetos pessoais como: <strong>landing pages usando biblioteca AOS, bootstrap, CSS puro,sites pessoais entre outras.</strong></p>
+     
+   <hr/>
+</body>
+</html>
